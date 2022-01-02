@@ -1,18 +1,17 @@
-<h1 align="center">Console.log("Hello World, I'm Johnnatan 👨🏻‍💻 !!! 👋 ") </h1>
+<h1 align="center">Console.log("Hello World, I'm Nahomi Conde 👨🏻‍💻 !!! 👋 ") </h1>
 
-Software developer focused on frontend development (Javascript, React, Next, Vue, Css, BosStrap, and more). I create awesome solutions that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
+passionate about programming (Javascript,Css, html). I love create awesome solutions that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
 
 <ul>
 <li>📫🤝🏻 Connect with Me</li>
-<li>You can find me on <strong><a href="https://https://www.linkedin.com/in/johnnatanreyes" target="_blank">LinkedIn</a></strong></li>
-<li>Send me an email: <strong><a href="mailto:tanamix22@gmail.com?subject=Hola%20Jonathan">tanamix22@gmail.com</a></strong></li>
+<li>You can find me on <strong><a href="https://https://www.linkedin.com/in/nahomiconde" target="_blank">LinkedIn</a></strong></li>
+<li>Send me an email: <strong><a href="mailto:nahyomi2000@gmail.com?subject=Hola%20Jonathan">:nahyomi2000@gmail.com</a></strong></li>
 </ul>
 
 <p align="center">
-  <a href="https://twitter.com/JonnathanTana" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter @tanamix22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/johnnatanreyes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @johnnatanreyes/"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/p/tanamix22/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" title="Platzi @tanamix22"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://portafolio-qx8dlovy7-tanamix22.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" title="Jonnathan Reyes Garcia"/></a>
+ 
+  <a href="https://www.linkedin.com/in/nahomiconde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @nahomiconde/"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 ***
@@ -36,20 +35,3 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 
 <p>I love to develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
 
-+ **PuroJecuto** as **Frontend**
-    + <a href="https://github.com/Purojekuto-Capstone/purojekuto-client" target="_blank"><strong>Frontend</strong> Repository</a>
-    + <a href="https://github.com/Purojekuto-Capstone/purojekuto-backend" target="_blank"><strong>Backend</strong> Repository</a>
-    + <a href="https://purojekuto-master.herokuapp.com/" target="_blank"><strong>Demo</strong></a>
-    + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
-    + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers, three backend developers, and one data scientist.
-
-</br>
-
-+ **Ghibli Movie** as **Frontend**
-    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client" target="_blank"><strong>Frontend</strong> Repository</a>
-    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client" target="_blank"><strong>Backend</strong> Repository</a>
-    + <a href="https://ghibli-tracker-client-git-main-thomasnrggo.vercel.app/" target="_blank"><strong>Demo</strong></a>
-    + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
-    + <strong>Description:</strong> Track and rate your favorite movies from Studio Ghibli.
-
-***
