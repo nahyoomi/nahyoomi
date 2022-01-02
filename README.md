@@ -1,6 +1,6 @@
-<h1 align="center">Console.log("Hello World, I'm Nahomi Conde 👨🏻‍💻 !!! 👋 ") </h1>
+<h1 align="center">Console.log("Hello World!, I'm Nahomi Conde 👨🏻‍💻 !!! 👋 ") </h1>
 
-passionate about programming (Javascript,Css, html). I love create awesome solutions that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
+Passionate about programming (Javascript, Css, html). I love creating awesome solutions that contributes to make people's daily lives easier. I continuously pursue more skills and I share my knowledge across communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
 
 <ul>
 <li>📫🤝🏻 Connect with Me</li>
